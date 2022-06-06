@@ -1,0 +1,2 @@
+# CrossSim Data
+This repository contains datasets and device conductance update lookup tables for [CrossSim](https://github.com/sandialabs/cross-sim). The datasets are used for both inference and training, while the lookup tables are used for training only. This is not a self-executing repository. Please see the main [CrossSim repository](https://github.com/sandialabs/cross-sim) for more information about the tool.
